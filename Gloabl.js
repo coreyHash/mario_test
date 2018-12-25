@@ -48,3 +48,6 @@ window.Global = {
     starNum: 1,
 
 };
+
+
+//这是在master 上的第一次修改，需要测试下分支和提交功能
